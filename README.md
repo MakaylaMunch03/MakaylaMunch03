@@ -14,20 +14,7 @@
 
 ###
 
-<div data-importer="socials" align="left">
-  <a href="https://x.com/makaylalmunch" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/makaylamunch/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://open.spotify.com/user/31f5vtafywwkfgv5ssmjbovaeyuu?si=ca355efd38eb4eec" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
-  </a>
-  <a href="https://www.instagram.com/makaylaliin/?utm_source=ig_web_button_share_sheet" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<p data-importer="socials" align="left"><a href="https://x.com/makaylalmunch" target="_blank">⭐ X</a><br><a href="https://www.linkedin.com/in/makaylamunch/" target="_blank">⭐ LinkedIn</a><br><a href="https://www.instagram.com/makaylaliin/?utm_source=ig_web_button_share_sheet" target="_blank">⭐ Instagram</a><br><a href="https://open.spotify.com/user/31f5vtafywwkfgv5ssmjbovaeyuu?si=ca355efd38eb4eec" target="_blank">⭐ Spotify</a></p>
 
 ###
 
@@ -36,12 +23,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makaylamunch03/makaylamunch03/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/makaylamunch03/makaylamunch03/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDk2YndiZjd4bGF5b2tyZ3R0bXc2ODg1cjMwb2t4ZnhvZHhjOGpjeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KCSJ0Nm8bc5owOdngX/giphy.gif"  />
-</div>
 
 ###
 
@@ -60,24 +41,18 @@
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="12" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBTAA7" alt=""  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
+  <img width="12" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBTAA7" alt=""  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="12" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBTAA7" alt=""  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
 
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=footer&reversal=false&text=Makayla&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=87ae73"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=footer&reversal=false&text=Makayla&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=87ae73"  />
 </div>
 
 ###
@@ -85,5 +60,3 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=makaylamunch03.makaylamunch03&"  />
 </div>
-
-###
