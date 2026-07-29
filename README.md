@@ -1,11 +1,4 @@
-Hii ੈ✩‧₊˚
-
-I’m Makayla, Building Nurvia
-
-♡ Co-founder of [Nurvia](https://nurvia.app), building AI logistics for people in motion.
-♡ Ask me about startups, travel, or logistics.
-♡ Find me on [X](https://x.com/makaylalmunch).
-# 𐙚 About Me:
+# 𐙚  ੈ✩‧₊˚ About Me:
 Hii ♡<br><br>I’m Makayla, Building Nurvia<br><br>♡ Co-founder of [Nurvia](https://nurvia.app), building AI logistics for people in motion.<br>♡ Ask me about startups, travel, or logistics.<br>♡ Find me on [X](https://x.com/makaylalmunch).
 
 
