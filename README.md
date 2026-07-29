@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">♡ Hello! I'm Makayla<br>♡ Co-founder at Nurvia<br>♡ Building AI logistics for people in motion<br><br><br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⢔⠰⢃⣉⣤⣤⣶⣶⣬⣥⣖⡡⣂⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡴⠚⠁⠀⣀⠾⣻⣿⣿⠿⠿⣿⡿⣿⣿⣿⣷⣷⣦⡠⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡼⠋⠀⢀⠔⠈⢠⣾⠟⡃⠀⠀⠀⠈⢆⠈⠉⠻⢿⣿⣿⣿⣶⣕⠄⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⢠⡾⠋⠀⢀⠜⠀⠀⢠⣿⣏⣎⠀⠀⠀⠀⠀⢸⠀⠀⠀⢀⢽⠋⠉⠛⢿⣯⡠⡄⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⣴⡟⠁⢀⠀⠁⠀⠀⢀⣿⣟⣎⠦⠀⠀⠀⠀⠀⠈⡆⠀⣴⠻⣈⠁⠄⠀⠈⣿⣿⡆⢆⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⣼⡿⠀⠀⡀⠀⠀⠀⠀⣸⣿⣟⡸⠄⠃⠀⠀⠀⠀⠀⣀⣼⠇⢇⠀⡀⠀⠀⠀⢸⣿⣿⢠⡄⠀⠀⠀<br>⠀⠀⠀⠀⣼⣿⠁⠀⡞⠀⠀⠀⠀⢀⣿⣿⡞⡱⠈⠀⠀⠀⠀⠀⢀⣿⢋⣎⠴⡁⠄⠂⠀⠀⢸⣿⣿⣇⠱⡀⠀⠀<br>⠀⠀⠀⣸⣿⡏⠀⡘⠀⠀⠀⠀⠀⢰⣿⣯⣝⠖⢁⠀⠀⠀⠀⠀⢸⠧⡓⢬⠑⠂⠀⠁⠀⠀⢸⣿⣿⣿⡆⢆⠀⠀<br>⠀⠀⢰⣿⡟⠀⢠⠇⠀⠀⠀⠀⠀⢸⣿⡿⣌⢓⠂⠠⠀⠀⠀⢠⡟⡓⣘⠢⡁⠀⠂⠀⠀⢠⠏⣿⣿⣿⣟⡨⠀⠀<br>⠀⠀⣰⣿⣯⠄⠀⠆⠀⠀⠀⠀⠀⢰⣿⡿⣭⠒⠀⠀⠀⠀⠀⣸⡗⣡⠂⠤⢀⠁⠀⠀⢀⠂⠀⢸⣿⣿⣿⡅⡃⠀<br>⠀⢰⣿⣿⣿⡄⠀⠘⢤⡤⣶⣀⣄⣞⡑⠄⣀⠀⠀⠂⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠆⠀⡀⠈⣿⣿⣿⣏⢵⠀<br>⠀⢶⣿⣿⣿⣿⣧⠄⠀⠻⣎⢯⢶⣪⢥⡚⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⡃⣠⠊⠁⠀⢿⣿⣿⣯⡆⠀<br>⠀⣿⣿⣿⣿⣿⣿⣧⠀⠀⠹⡌⣏⣷⠪⡕⠎⡁⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⡀⠀⠀⣾⣿⣿⡿⢃⠀<br>⢸⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⢳⢸⢩⡓⣭⣒⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣠⣤⣿⣿⣿⡟⣠⠀<br>⢸⣿⣿⣿⣿⣿⣿⣿⢷⡂⠀⠸⢈⡷⣙⢲⡣⠜⠄⡘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣧⡠⡀<br>⡠⢻⣿⣿⣿⣿⣿⣿⣹⣧⣀⡠⢡⡿⣜⢯⡗⠀⡃⢇⠂⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣷⢿⣹⡇⠃<br>⢀⣿⣮⣻⣿⣿⣿⣿⡿⣡⠈⠀⣼⣿⣎⣿⣝⢲⠀⡆⢀⣀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡧⡇⢐<br>⠀⠼⣿⣷⢹⣿⣿⣿⢿⡰⢌⢤⣿⣟⣾⣟⡦⡝⡠⠇⣼⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⢸⣿⣿⣽⡟⡄⢆<br>⠀⠈⢛⣿⣿⡜⣿⣿⣻⠼⣭⣾⣿⣿⡿⣶⣛⣱⠡⡃⠙⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇⣼⣿⣿⣿⣣⢰⠂<br>⠀⠀⠀⠈⠹⠛⠶⠹⠛⣻⣿⣿⣿⢿⣻⡵⣎⠧⢐⣡⠠⠄⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⣰⣿⣿⣿⡿⢡⡥⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠚⠟⣽⣯⣟⡽⡽⣎⠸⡄⣃⠆⢠⠀⠠⠀⠚⠙⠻⠀⠀⠠⢁⣴⡿⠛⠛⡹⠐⠋⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⣾⣽⢳⡍⣾⢱⡌⣦⠃⡌⠁⠂⠀⡄⠀⠀⠀⡔⠋⠉⠀⠐⠋⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠈⠚⠡⠷⢈⣎⡑⢊⡰⠔⠺⠎⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</p>
+<p data-importer="text" align="left">♡ Hello! I'm Makayla<br>♡ Co-founder at Nurvia<br>♡ Building AI logistics for people in motion<br><br><br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⢔⠰⢃⣉⣤⣤⣶⣶⣬⣥⣖⡡⣂⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡴⠚⠁⠀⣀⠾⣻⣿⣿⠿⠿⣿⡿⣿⣿⣿⣷⣷⣦⡠⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡼⠋⠀⢀⠔⠈⢠⣾⠟⡃⠀⠀⠀⠈⢆⠈⠉⠻⢿⣿⣿⣿⣶⣕⠄⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⢠⡾⠋⠀⢀⠜⠀⠀⢠⣿⣏⣎⠀⠀⠀⠀⠀⢸⠀⠀⠀⢀⢽⠋⠉⠛⢿⣯⡠⡄⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⣴⡟⠁⢀⠀⠁⠀⠀⢀⣿⣟⣎⠦⠀⠀⠀⠀⠀⠈⡆⠀⣴⠻⣈⠁⠄⠀⠈⣿⣿⡆⢆⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⣼⡿⠀⠀⡀⠀⠀⠀⠀⣸⣿⣟⡸⠄⠃⠀⠀⠀⠀⠀⣀⣼⠇⢇⠀⡀⠀⠀⠀⢸⣿⣿⢠⡄⠀⠀⠀<br>⠀⠀⠀⠀⣼⣿⠁⠀⡞⠀⠀⠀⠀⢀⣿⣿⡞⡱⠈⠀⠀⠀⠀⠀⢀⣿⢋⣎⠴⡁⠄⠂⠀⠀⢸⣿⣿⣇⠱⡀⠀⠀<br>⠀⠀⠀⣸⣿⡏⠀⡘⠀⠀⠀⠀⠀⢰⣿⣯⣝⠖⢁⠀⠀⠀⠀⠀⢸⠧⡓⢬⠑⠂⠀⠁⠀⠀⢸⣿⣿⣿⡆⢆⠀⠀<br>⠀⠀⢰⣿⡟⠀⢠⠇⠀⠀⠀⠀⠀⢸⣿⡿⣌⢓⠂⠠⠀⠀⠀⢠⡟⡓⣘⠢⡁⠀⠂⠀⠀⢠⠏⣿⣿⣿⣟⡨⠀⠀<br>⠀⠀⣰⣿⣯⠄⠀⠆⠀⠀⠀⠀⠀⢰⣿⡿⣭⠒⠀⠀⠀⠀⠀⣸⡗⣡⠂⠤⢀⠁⠀⠀⢀⠂⠀⢸⣿⣿⣿⡅⡃⠀<br>⠀⢰⣿⣿⣿⡄⠀⠘⢤⡤⣶⣀⣄⣞⡑⠄⣀⠀⠀⠂⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠆⠀⡀⠈⣿⣿⣿⣏⢵⠀<br>⠀⢶⣿⣿⣿⣿⣧⠄⠀⠻⣎⢯⢶⣪⢥⡚⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⡃⣠⠊⠁⠀⢿⣿⣿⣯⡆⠀<br>⠀⣿⣿⣿⣿⣿⣿⣧⠀⠀⠹⡌⣏⣷⠪⡕⠎⡁⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⡀⠀⠀⣾⣿⣿⡿⢃⠀<br>⢸⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⢳⢸⢩⡓⣭⣒⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣠⣤⣿⣿⣿⡟⣠⠀<br>⢸⣿⣿⣿⣿⣿⣿⣿⢷⡂⠀⠸⢈⡷⣙⢲⡣⠜⠄⡘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣧⡠⡀<br>⡠⢻⣿⣿⣿⣿⣿⣿⣹⣧⣀⡠⢡⡿⣜⢯⡗⠀⡃⢇⠂⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣷⢿⣹⡇⠃<br>⢀⣿⣮⣻⣿⣿⣿⣿⡿⣡⠈⠀⣼⣿⣎⣿⣝⢲⠀⡆⢀⣀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡧⡇⢐<br>⠀⠼⣿⣷⢹⣿⣿⣿⢿⡰⢌⢤⣿⣟⣾⣟⡦⡝⡠⠇⣼⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⢸⣿⣿⣽⡟⡄⢆<br>⠀⠈⢛⣿⣿⡜⣿⣿⣻⠼⣭⣾⣿⣿⡿⣶⣛⣱⠡⡃⠙⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇⣼⣿⣿⣿⣣⢰⠂<br>⠀⠀⠀⠈⠹⠛⠶⠹⠛⣻⣿⣿⣿⢿⣻⡵⣎⠧⢐⣡⠠⠄⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⣰⣿⣿⣿⡿⢡⡥⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠚⠟⣽⣯⣟⡽⡽⣎⠸⡄⣃⠆⢠⠀⠠⠀⠚⠙⠻⠀⠀⠠⢁⣴⡿⠛⠛⡹⠐⠋⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⣾⣽⢳⡍⣾⢱⡌⣦⠃⡌⠁⠂⠀⡄⠀⠀⠀⡔⠋⠉⠀⠐⠋⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠈⠚⠡⠷⢈⣎⡑⢊⡰⠔⠺⠎⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀</p>
 
 ###
 
@@ -14,22 +14,7 @@
 
 ###
 
-<p data-importer="socials" align="left"><a href="https://x.com/makaylalmunch" target="_blank">⭐ X</a><br><a href="https://www.linkedin.com/in/makaylamunch/" target="_blank">⭐ LinkedIn</a><br><a href="https://www.instagram.com/makaylaliin/?utm_source=ig_web_button_share_sheet" target="_blank">⭐ Instagram</a><br><a href="https://open.spotify.com/user/31f5vtafywwkfgv5ssmjbovaeyuu?si=ca355efd38eb4eec" target="_blank">⭐ Spotify</a></p>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makaylamunch03/makaylamunch03/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makaylamunch03/makaylamunch03/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/makaylamunch03/makaylamunch03/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/makaylamunch03/makaylamunch03/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/makaylamunch03/makaylamunch03/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p data-importer="text" align="left">⋆ [X](https://x.com/makaylalmunch)<br>⋆ [LinkedIn](https://www.linkedin.com/in/makaylamunch/)<br>⋆ [Instagram](https://instagram.com/makaylaliin)<br>⋆ [Spotify](https://open.spotify.com/user/31f5vtafywwkfgv5ssmjbovaeyuu?si=037ed9f0801d4900)</p>
 
 ###
 
@@ -41,18 +26,12 @@
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBTAA7" alt=""  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBTAA7" alt=""  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBTAA7" alt=""  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=footer&reversal=false&text=Makayla&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=87ae73"  />
 </div>
 
 ###
@@ -60,3 +39,5 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=makaylamunch03.makaylamunch03&"  />
 </div>
+
+###
