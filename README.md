@@ -14,7 +14,20 @@
 
 ###
 
-<p data-importer="text" align="left">⋆ <a href="https://x.com/makaylalmunch">X</a><br>⋆ <a href="https://www.linkedin.com/in/makaylamunch/">LinkedIn</a><br>⋆ <a href="https://instagram.com/makaylaliin">Instagram</a><br>⋆ <a href="https://open.spotify.com/user/31f5vtafywwkfgv5ssmjbovaeyuu">Spotify</a></p>
+<div data-importer="socials" align="left">
+  <a href="https://x.com/makaylalmunch" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.linkedin.com/in/makaylamunch/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/makaylaliin" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://open.spotify.com/user/31f5vtafywwkfgv5ssmjbovaeyuu" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+</div>
 
 ###
 
